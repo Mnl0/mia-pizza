@@ -244,4 +244,11 @@ iframe{
     height: 200px;
   }
 
+  @media (max-width: 360px){
+    .main{
+      margin-left: 17px;
+    }
+  }
+
+
 }
