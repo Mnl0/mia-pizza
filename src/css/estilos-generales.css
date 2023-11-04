@@ -1,0 +1,148 @@
+html, body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #eee;
+  scroll-behavior: smooth;
+  font-family: 'Nunito', sans-serif;
+}
+.barra-navegacion{
+  background: linear-gradient(45deg, #212529 50%,#ef6c00 50%);
+  position: sticky;
+  top:0;
+  z-index: 2;
+}
+.logo{
+  max-width: 100px;
+}
+.presentacion{
+  box-sizing: border-box;
+  background-color: #212529;
+  color:#eee;
+  padding: 20px;
+  text-align: center;
+}
+.presentacion>h1{
+  font-size: 5rem;
+  font-weight: bold;
+  font-style: italic;
+  padding:10px 0 0 0;
+}
+.presentacion>p{
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+  padding: 50px 0;
+}
+/* .descripcion-tarjeta{
+  margin: 50px 0;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.3);
+  background:linear-gradient(50deg, #eee 90%, #ffcc80 10%);
+} */
+.whatsapp{
+  background-color: #ef6c00;
+  border: solid 1px #ef6c00;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+.whatsapp:hover{
+  background-color: #ef6c00;
+  border: solid 1px #ef6c00;
+}
+.whatsapp:focus{
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(250, 103, 4, 0.25);
+}
+.contenedor-iframe{
+  box-sizing: border-box;
+  margin: 20px 0;
+  padding: 20px 0;
+  background-color: #212529;
+  display: flex;
+  justify-content: center;
+}
+iframe{
+  width: 80%;
+  height: 500px
+}
+.footer{
+  clear: both;
+  padding: 50px 0;
+  margin: 50px 0 0 0;
+  color: #eee;
+}
+.main{
+  margin-left: 125px;
+}
+.titulo-prod{
+  margin-top: 30px;
+  text-align: center;
+}
+.titulo-prod h1{
+  font-weight: bold;
+}
+.tarjeta{
+  width: 550px;
+  border: solid 1px #ef6c00;
+  border-radius: 8px;
+  margin-bottom: 50px;
+  height: 225px;
+  background:linear-gradient(50deg, #eee 90%, #ffcc80 10%);
+  padding-left: 0px;
+  margin-right: 20px;
+}
+.tarjeta:hover{
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.3);
+  cursor: pointer;
+}
+.tarjeta img{
+  width: 200px;
+  height: 223px;
+  border-radius: 6px 0 0 6px;
+  float: left;
+}
+.titulo{
+  text-align: center;
+  font-weight: semibold;
+}
+.list-ingr{
+  list-style: none;
+  margin-left: 200px;
+  padding-left: 10px;
+  font-style: italic;
+}
+.precio{
+  list-style: none;
+  margin-left: 200px;
+  padding-left: 10px;
+  display: flex;
+
+}
+.precio li{
+  margin-right: 10px;
+}
+.butt button{
+  margin-left: 250px;
+  border-radius: 4px;
+  border: solid 1px #ef6c00;
+  background-color: #ef6c00;;
+}
+.butt button:hover{
+  background-color: #ef6c00;
+  border: solid 1px #ef6c00;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.ubicacion{
+  display: flex;
+  justify-content: center;
+}
+.ubicacion p {
+  font-size: 1.5em;
+  font-weight: semibold;
+}
+iframe{
+  border-radius: 6px;
+}
