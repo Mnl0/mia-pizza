@@ -7,7 +7,7 @@ const productos = [
       familiar: "15.000",
       individual: "7.000",
     },
-    image: 'SRC/img/pizza-4.png',
+    image: 'src/img/pizza-4.png',
   },
   {
     key: 2,
@@ -17,7 +17,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-5.png',
+    image: 'src/img/pizza-5.png',
   },
   {
     key: 3,
@@ -27,7 +27,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-6.png',
+    image: 'src/img/pizza-6.png',
   },
   {
     key: 4,
@@ -37,7 +37,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-7.png',
+    image: 'src/img/pizza-7.png',
   },
   {
     key: 5,
@@ -47,7 +47,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-8.png',
+    image: 'src/img/pizza-8.png',
   },
   {
     key: 6,
@@ -57,7 +57,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-9.png',
+    image: 'src/img/pizza-9.png',
   },
   {
     key: 7,
@@ -67,7 +67,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-10.png',
+    image: 'src/img/pizza-10.png',
   },
   {
     key: 8,
@@ -77,7 +77,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-11.png',
+    image: 'src/img/pizza-11.png',
   },
   {
     key: 9,
@@ -87,7 +87,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea-2.png',
+    image: 'src/img/pizza-aerea-2.png',
   },
   {
     key: 10,
@@ -97,7 +97,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea-3.png',
+    image: 'src/img/pizza-aerea-3.png',
   },
   {
     key: 11,
@@ -107,7 +107,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea-4.png',
+    image: 'src/img/pizza-aerea-4.png',
   },
   {
     key: 12,
@@ -117,7 +117,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea-5.png',
+    image: 'src/img/pizza-aerea-5.png',
   },
   {
     key: 13,
@@ -127,7 +127,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea-6.png',
+    image: 'src/img/pizza-aerea-6.png',
   },
   {
     key: 14,
@@ -137,7 +137,7 @@ const productos = [
       familiar: 0,
       individual: 0,
     },
-    image: 'SRC/img/pizza-aerea.png',
+    image: 'src/img/pizza-aerea.png',
   },
 
 ]
